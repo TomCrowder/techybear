@@ -1,0 +1,9 @@
+.title, .subtitle, .detail{
+ text-align: left   
+}
+
+.title{
+ border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 3px;
+}
